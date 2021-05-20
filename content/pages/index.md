@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Justine NICOLLE
+    title: Site internet pour CMS
     subtitle: Vive McDo & le Chardo
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
